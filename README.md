@@ -1,4 +1,18 @@
-# React + TypeScript + Vite
+VYRA: Luxury Fragrance House & E-Commerce Ecosystem
+VYRA is a high-end digital editorial and e-commerce platform designed to bridge the gap between technical olfactory science and cinematic luxury retail. Built with a "less is more" aesthetic, the platform serves as a bespoke authority for fragrance enthusiasts and collectors.
+
+Core Innovation & Key Competencies:
+Modern Tech Stack: Developed using React 18, TypeScript, and Tailoid CSS within a modular, scalable architecture.
+
+Advanced UX/UI: Engineered with a focus on High-End Minimalist Aesthetics, featuring symmetrical grid layouts, smooth motion transitions, and high-fidelity editorial imagery.
+
+Bespoke Functionality: Includes a custom AI Concierge for fragrance consultations, real-time Inventory Management for limited-edition releases, and a secure Master Curator Admin Suite.
+
+State Management: Implemented robust data handling using React Context API and React-Router-Dom for seamless, single-page navigation.
+
+Industry Authority: Centralized "Olfactory Insights" blog grid, delivering professional-grade content on scent chemistry, longevity, and preservation.
+
+The Vision: To redefine the luxury fragrance market by delivering a seamless, secure, and visually immersive digital boutique that honors the heritage of artisan perfumery.# React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
